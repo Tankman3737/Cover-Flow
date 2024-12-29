@@ -1,9 +1,14 @@
 Various Cover-Flow layouts, some finished, some basic, all to be hacked and played with.
-2Dboxes, 3Dboxes, snap and fanart. Your artwork folders need to match, or change the layout name
+
+2Dboxes, 3Dboxes, snap and fanart. Your artwork folders need to match, or change the layout name. You will also need the mask and perspective modules from @Chadnaut
+
+https://github.com/Chadnaut/Attract-Mode-Modules
 
 https://forums.launchbox-app.com/files/file/1625-arcade-3d-boxes-20/
 
 https://emumovies.com/files/file/4768-mame-arcade-2d-boxes-version-2-by-mr-retrolust-converted-by-stainless/
+
+
 
 
 
